@@ -22,7 +22,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQF7XNVkwA8hiw/profile-displayphoto-shrink_400_400/0/1706589158837?e=1725494400&v=beta&t=qjxg-3ph2eaKnYU1zMK-jExxusZk0yfvfY1sMh0vPrA"  />
 
 ###
 
